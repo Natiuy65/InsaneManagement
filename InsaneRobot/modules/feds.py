@@ -84,7 +84,7 @@ def new_fed(update: Update, context: CallbackContext):
         x = sql.new_fed(user.id, fed_name, fed_id)
         if not x:
             update.effective_message.reply_text(
-                "Can't federate! Please contact @ironmenfed if the problem persist."
+                "Can't federate! Please contact @CaptionAmericafed if the problem persist."
             )
             return
 
@@ -238,7 +238,7 @@ def join_fed(update: Update, context: CallbackContext):
         x = sql.chat_join_fed(args[0], chat.title, chat.id)
         if not x:
             message.reply_text(
-                "Failed to join federation! Please contact @ironmenfed should this problem persist!"
+                "Failed to join federation! Please contact @CaptionAmericafed should this problem persist!"
             )
             return
 
