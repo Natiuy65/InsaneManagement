@@ -32,4 +32,4 @@ async def wish(Insane):
 
         
    
-        #Trying To Be A 𝗥𝗮𝗶𝗻𝗯𝗼𝘄 In Someone’s 𝗖𝗹𝗼𝘂𝗱.👉 @Give_Me_Heart
+        #Trying To Be A 𝗥𝗮𝗶𝗻𝗯𝗼𝘄 In Someone’s 𝗖𝗹𝗼𝘂𝗱.👉 @Insane_help365
