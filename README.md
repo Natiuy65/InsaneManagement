@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>❤️ Alexa Management Bot ❤️</b></h1>
+<h1 align="center"><b>❤️ Insane Management Bot ❤️</b></h1>
 
 <h4 align="center">Insane A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -24,7 +24,7 @@ The Easiest Way To Deploy This Bot Direct From GitHub
 
 The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TheTeamInsane/IronMenManagement"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TheTeamInsane/InsaneManagement"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
  
 # ❤️ Support
